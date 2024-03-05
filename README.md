@@ -223,7 +223,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-20: [BizTech Conf](https://conf.biztech.ma/) - Online <a href="https://sessionize.com/biztech-conf/"><img alt="CFP BizTech Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-March-2024&color=green"></a>
 * 19-20: [Commit Conf](https://2024.commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/2024/sessions"><img alt="CFP Commit Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=red"></a>
 * 19-20: [React Miami](https://www.reactmiami.com/) - Miami, FL (USA)
-* 20: [DevOpsDays Istanbul](https://devopsdays.org/events/2024-istanbul/welcome/) - Istanbul (Turkey) <a href="https://www.papercall.io/devopsdays-istanbul-2023"><img alt="CFP DevOpsDays Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2024&color=red"></a>
+* 20: [DevOpsDays Istanbul](https://devopsdays.org/events/2024-/welcome/) -  (Turkey) <a href="https://www.papercall.io/devopsdays--2023"><img alt="CFP DevOpsDays " src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2024&color=red"></a>
 * 20-21: [BSides Charm](https://bsidescharm.org/) - Towson, MD (USA) <a href="https://pretalx.com/bsidescharm2024/cfp"><img alt="CFP BSides Charm" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-January-2024&color=red"></a>
 * 22: [React Connection 2024](https://reactconnection.io/) - Paris (France) <a href="https://conference-hall.io/public/event/J4B6tn2Vas37pLaU0pIo"><img alt="CFP React Connection 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-February-2024&color=red"></a>
 * 23: [Shift Conference](https://shift.infobip.com/us/) - Miami, FL (USA)
@@ -527,7 +527,6 @@ All the data (past and coming) are available publicly in JSON:
 
 * 01: [Conf24 Prompt Engineering](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-Oct-2024&color=green"></a>
 * 01: [DevSecCon](https://www.devseccon.com/) - Online
-* 01-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
 * 05: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
 * 6-8: [Oredev](https://oredev.org/) - Malmo (Sweden)
